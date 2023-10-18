@@ -34,3 +34,12 @@ json format:[songs.json](songs.json)
   }
 }
 ```
+
+
+### how to get data  
+
+1. visit https://www.capcut.com/  
+2. use fiddler to capture the request  
+3. save the response to json file  
+4. use python to parse the json file  
+5. load the data to excel  
